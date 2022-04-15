@@ -36,13 +36,27 @@ MySQL is a Relational Management System which uses Structured Query Language (SQ
 - Run index.php using browser
 
 
-## Author
+  
+## Tech Stack
+
+**Client:** BootstapCSS
+
+**Server:** MySQL
+
+
+## Related
+
+Here are some related projects
+
+[College Portal](https://github.com/imharris24/College-Portal-DBS)
+
+
+## Authors
 
 - [@imharris24](https://www.github.com/imharris24)
 
-  
-## Support
 
-For support, email harris20014@gmail.com
+## Feedback
 
-  
+If you have any feedback, please reach out to me at harris20014@gmail.com
+
